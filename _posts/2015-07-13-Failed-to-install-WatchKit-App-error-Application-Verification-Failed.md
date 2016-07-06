@@ -1,10 +1,10 @@
 ---
-//layout: post
-//title: Failed to install WatchKit App, error: Application Verification Failed
-//date: 2015-07-13
-//categories: blog
-//tags: [iOS]
-//description: 写不是义务，写本身就是写的报酬。
+layout: post
+title: Failed to install WatchKit App, error: Application Verification Failed
+date: 2015-07-13
+categories: blog
+tags: [iOS]
+description: 写不是义务，写本身就是写的报酬。
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-//layout: post
-//title: Swift: Xcode 7 Beta3 中新增的东西
-//date: 2015-07-08
-//categories: blog
-//tags: [iOS]
-//description: 写不是义务，写本身就是写的报酬。
+layout: post
+title: Swift: Xcode 7 Beta3 中新增的东西
+date: 2015-07-08
+categories: blog
+tags: [iOS]
+description: 写不是义务，写本身就是写的报酬。
 
 ---
 
