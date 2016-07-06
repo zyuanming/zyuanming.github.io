@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift:  Xcode 7 Beta3 中新增的东西
+title: Swift: Xcode 7 Beta3 中新增的东西
 date: 2015-07-08
 categories: blog
 tags: [iOS]
