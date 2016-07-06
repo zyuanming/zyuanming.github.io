@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Failed to install WatchKit App, error: Application Verification Failed
-date: 2015-07-13
-categories: blog
-tags: [iOS]
-description: 写不是义务，写本身就是写的报酬。
+//layout: post
+//title: Failed to install WatchKit App, error: Application Verification Failed
+//date: 2015-07-13
+//categories: blog
+//tags: [iOS]
+//description: 写不是义务，写本身就是写的报酬。
 
 ---
 
@@ -16,8 +16,8 @@ WatchKit 刚发布没有多久，它的文档还非常少。这样有好也有�
 
 我之前遇到一个问题，就是用xcrun 命令而不是使用Xcode的 Archive和导出功能来打包一个iOS 和 WatchKit 包到一个  .ipa格式的安装文件中。有可能到头来你也会遇到这种情况，那就是在你的Apple Watch 设备上安装你的WatchKit app 时，会弹出以下的错误信息：
 
-     'Failed to install WatchKit App, error: 
-    Application Verification Failed'. 
+     'Failed to install WatchKit App, error:
+    Application Verification Failed'.
 
 你获取不到任何的堆栈信息，没有控制台输出.... 这种情况就变得非常特殊了。
 

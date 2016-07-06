@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Swift: Xcode 7 Beta3 中新增的东西
-date: 2015-07-08
-categories: blog
-tags: [iOS]
-description: 写不是义务，写本身就是写的报酬。
+//layout: post
+//title: Swift: Xcode 7 Beta3 中新增的东西
+//date: 2015-07-08
+//categories: blog
+//tags: [iOS]
+//description: 写不是义务，写本身就是写的报酬。
 
 ---
 
@@ -41,7 +41,7 @@ Objective-C现在支持范型子类了。我还没有时间去试用这个新功
         .map({String($0)})
         .map({"item \($0)"})
         .count
-    
+
 
 这种改变的副作用可能会随着发行版文档而改变。现在你不可以在一行的开头使用推断式静态成员变量了。 所以 `.staticVar = value` 已经不起作用了。因为我记不起来我有使用过这种形式了，所以我真的不关心它带来的副作用。
 
