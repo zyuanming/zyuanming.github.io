@@ -1,5 +1,5 @@
 # Site settings
-title: 读立写生
+title: 程序开发，读书心得，经验总结
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "剑尖|读而立·写而生"  
@@ -8,7 +8,7 @@ url: "http://zyuanming.github.io"
 
 # About/contact
 owner: 
-  name: " 剑尖"
+  name: "剑尖"
   email: zyuanming@outlook.com
   bio: "写就是写的报酬"
 
