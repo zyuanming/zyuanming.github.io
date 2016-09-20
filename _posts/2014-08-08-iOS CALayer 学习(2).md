@@ -8,8 +8,6 @@ description: iOS CALayer 学习(2)
 
 ---
 
-* * *
-
 ## Content Resizing and Positioning
 
 layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，如何剪切等等。
