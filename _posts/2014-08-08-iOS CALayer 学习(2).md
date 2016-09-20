@@ -10,7 +10,7 @@ description: iOS CALayer 学习(2)
 
 iOS CALayer 学习(2)
 
-## Content Resizing and Positioning
+##Content Resizing and Positioning
 
 layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，如何剪切等等。
 
@@ -30,7 +30,7 @@ layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，
 
 * * *
 
-## Layers that Draw Themselves， 懂得如何绘制自己的Layer
+##Layers that Draw Themselves， 懂得如何绘制自己的Layer
 
 有几个内建的CALayer子类，提供了一些很有用的绘制方法：
 
@@ -50,7 +50,7 @@ CAGradientLayer有一个简单的线性渐变覆盖在它的背景中，另外�
 
 * * *
 
-## Transforms
+##Transforms
 
 layer绘制的方式可以通过一个转换来改变。由于UIView也有转换，可能你觉得没什么，但是layer的转换比view的转换强大得多了，它可以完成view通过转换无法完成的很多东西。
 
