@@ -8,9 +8,8 @@ description: iOS CALayer
 
 ---
 
-* * *
 
-## Content Resizing and Positioning
+//## Content Resizing and Positioning
 
 
 layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，如何剪切等等。
@@ -29,7 +28,6 @@ layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，
 
 也是一个CGRect类型，描述contentsRect指定的区域内的九宫格内容如何根据contentsGravity来拉伸。中间区域的内容向两个方向拉伸，其它八个区域中，四个角区域不拉伸，四个边缘的区域向一个方向拉伸。类似于我们前面见过的image的拉伸。
 
-* * *
 
 ## Layers that Draw Themselves， 懂得如何绘制自己的Layer
 
@@ -50,7 +48,6 @@ CAGradientLayer有一个简单的线性渐变覆盖在它的背景中，另外�
 
 这个颜色值数组要求CGColor类型，而不是UIColor类型，但是CGColorRef不是一个对象类型，而NSArray要求添加的都是对象类型，所以我们需要对每个颜色都进行类型转换。
 
-* * *
 
 ## Transforms
 
