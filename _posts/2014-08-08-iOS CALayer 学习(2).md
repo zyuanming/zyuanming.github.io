@@ -1,12 +1,14 @@
 ---
 layout: post
-title: iOS CALayer 学习(2)
+title: iOS CALayer 学习（2）
 date: 2014-08-08
 categories: blog
 tags: [iOS]
-description: iOS CALayer
+description: iOS CALayer 学习（2）
 
 ---
+
+* * *
 
 ## Content Resizing and Positioning
 
