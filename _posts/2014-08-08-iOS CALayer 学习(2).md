@@ -108,3 +108,4 @@ layer绘制的方式可以通过一个转换来改变。由于UIView也有转换
     [arrow setNeedsDisplay];
 
  [1]: http://images.cnitblog.com/blog/406864/201410/052237500973622.png
+
