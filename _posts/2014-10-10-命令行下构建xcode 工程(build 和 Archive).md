@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 命令行下构建xcode 工程（build 和 Archive）
+title: 命令行下构建xcode 工程(build 和 Archive)
 date: 2014-10-10
 categories: blog
 tags: [图像]
-description: 命令行下构建xcode 工程（build 和 Archive）
+description: 命令行下构建xcode 工程(build 和 Archive)
 
 ---
 
