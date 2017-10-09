@@ -48,9 +48,7 @@ defaults:
 
 # Comments 
 comments :
-  provider : disqus
-  disqus :
-      short_name : yuanming
+  disqus : yuanming
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
