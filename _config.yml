@@ -1,59 +1,45 @@
-# Site settings
-title: 程序开发，读书心得，经验总结
-header-img: "img/facebook.jpg"
-tagline: "cn"  
-description: "剑尖|读而立·写而生"  
-baseurl: ""
-url: "http://zyuanming.github.io"  
+# Basic
+title: 剑尖博客
+subtitle: iOS开发者
+# welcome_message: ObjC 中国
+# description: 
+# creator: <a href="http://onev.cat">@onevcat</a>
 
-# About/contact
-owner: 
-  name: "剑尖"
-  email: zyuanming@outlook.com
-  bio: "写就是写的报酬"
+url: "http://zyuanming.github.io"
 
-# Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+permalink: /:year/:month/:title/
 
-douban_username:  
-twitter_username: 
-github_username: zyuanming
-weibo_username: 小剑尖
-facebook_username: 
-zhihu_username: 
+# Format
+highlighter: rouge
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
-highlighter: pygments
-permalink: pretty
-paginate: 20
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+blog_button:
+    title: 博客
+    description: 访问博客
 
-# Defaults for posts
-defaults:
-  -
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "剑尖"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+nav:
+    - {title: 简历, description: 我的简历, url: 'http://zyuanming.github.io/about/'}
+    - {title: 关于, description: 了解更多关于我, url: 'http://zyuanming.github.io/about/'}
 
-# Comments 
-comments :
-  disqus : yuanming
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: 
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Comment
+comment:
+    disqus: yuanming
+    # duoshuo:
+# Social
+social:
+    weibo: yuanming
+    github: zyuanming
+    twitter: yuanming
+    mail: zyuanming@outlook.com
 
-# Links to include in footer navigation
+# Google Analytics
+ga:
+    id: UA-39496860-2
+    host: zyuanming.github.io

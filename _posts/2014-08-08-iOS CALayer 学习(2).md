@@ -20,9 +20,9 @@ layer的下面的属性决定着缓存中的内容如何拉伸，如何定位，
 
 2. contentsRect
 
-一个CGRect类型的数据，用来说明即将显示的内容区域，默认是{{0,0},{1,1}}，表示所有的内容都将显示。指定的显示部分会根据上面的contentsGravity属性来绘制。
+一个CGRect类型的数据，用来说明即将显示的内容区域，默认是 `{ {0,0},{1,1} }`，表示所有的内容都将显示。指定的显示部分会根据上面的contentsGravity属性来绘制。
 
-你可以使用contentsRect来缩放内容，通过指定一个大于layer的bounds的contentRects来实现，如 {{-.5, -.5}, {1.5, 1.5}}。
+你可以使用contentsRect来缩放内容，通过指定一个大于layer的bounds的contentRects来实现，如 `{ {-.5, -.5}, {1.5, 1.5} }` 。
 
 3. contentsCenter
 
