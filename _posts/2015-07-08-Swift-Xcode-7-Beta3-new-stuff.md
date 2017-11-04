@@ -46,5 +46,5 @@ Objective-C现在支持范型子类了。我还没有时间去试用这个新功
 这种改变的副作用可能会随着发行版文档而改变。现在你不可以在一行的开头使用推断式静态成员变量了。 所以 `.staticVar = value` 已经不起作用了。因为我记不起来我有使用过这种形式了，所以我真的不关心它带来的副作用。
 
  [1]: http://ericasadun.com/2015/07/08/swift-new-stuff-in-xcode-7-beta-3/
- [2]: http://images0.cnblogs.com/blog2015/406864/201507/111424203934315.png
- [3]: http://images0.cnblogs.com/blog2015/406864/201507/111433235964296.png
+ [2]: /assets/images/2015/07-08-1.png
+ [3]: /assets/images/2015/07-08-2.png

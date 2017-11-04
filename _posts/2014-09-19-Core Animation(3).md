@@ -83,4 +83,4 @@ CALayer 的 addAnimation:forKey: 方法可以请求执行一个显式动画。�
 
 只能有一个转换动画在列表中，我们添加CATransition动画到列表中时，key会被忽略，key总是kCATransition（也就是“transition”）
 
- [1]: http://images.cnitblog.com/blog/406864/201410/142305599043641.png
+ [1]: /assets/images/2014/09-19-1.png

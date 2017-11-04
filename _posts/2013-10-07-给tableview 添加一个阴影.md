@@ -28,4 +28,4 @@ cellForRowAtIndexPath:(NSIndexPath *)indexPath { // ... cell.layer.shadowOffset 
 ![][2]
 
  [1]: http://travisjeffery.com/b/2012/07/adding-a-drop-shadow-to-a-table-view/
- [2]: http://images.cnitblog.com/blog2015/406864/201503/241111548494939.png
+ [2]: /assets/images/2013/10-07-1.png

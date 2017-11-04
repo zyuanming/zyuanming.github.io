@@ -94,4 +94,4 @@ mac os 10.10不支持通过.app文件中的ResourcesRule.plist文件获取相关
 <http://stackoverflow.com/questions/2664885/xcode-build-and-archive-from-command-line/4198166#4198166>
 
  [1]: http://www.yming9.com/?p=62
- [2]: http://images.cnitblog.com/blog/406864/201410/281612302534401.png
+ [2]: /assets/images/2014/10-10-1.png

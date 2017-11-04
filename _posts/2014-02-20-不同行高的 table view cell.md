@@ -257,15 +257,15 @@ configureCell 方法负责设置cell 的内容，你将发现这是一种很好�
  [3]: http://useyourloaf.com/blog/categories/dynamictype/
  [4]: http://blog.amyworrall.com/post/66085151655/using-auto-layout-to-calculate-table-cell-height
  [5]: http://www.gutenberg.org/ebooks/32325
- [6]: http://images.cnitblog.com/blog/406864/201411/131629221636794.png
- [7]: http://images.cnitblog.com/blog/406864/201411/131632212417871.png
- [8]: http://images.cnitblog.com/blog/406864/201411/131634481948166.png
- [9]: http://images.cnitblog.com/blog/406864/201411/131638454757055.png
- [10]: http://images.cnitblog.com/blog/406864/201411/131643522418841.png
- [11]: http://images.cnitblog.com/blog/406864/201411/131646242413012.png
- [12]: http://images.cnitblog.com/blog/406864/201411/131648005538868.png
- [13]: http://images.cnitblog.com/blog/406864/201411/131649182568740.png
- [14]: http://images.cnitblog.com/blog/406864/201411/131652483504925.png
+ [6]: /assets/images/2014/02-20-1.png
+ [7]: /assets/images/2014/02-20-2.png
+ [8]: /assets/images/2014/02-20-3.png
+ [9]: /assets/images/2014/02-20-4.png
+ [10]: /assets/images/2014/02-20-5.png
+ [11]: /assets/images/2014/02-20-6.png
+ [12]: /assets/images/2014/02-20-7.png
+ [13]: /assets/images/2014/02-20-8.png
+ [14]: /assets/images/2014/02-20-9.png
  [15]: https://github.com/smileyborg
  [16]: https://github.com/smileyborg/UIView-AutoLayout
  [17]: https://github.com/erf/AutoSizeTableCell

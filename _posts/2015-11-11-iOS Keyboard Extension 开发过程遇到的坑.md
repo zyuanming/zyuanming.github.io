@@ -76,7 +76,7 @@ description: iOS Keyboard Extension 开发过程遇到的坑
 
 那么快捷键 `Command + K`可以帮到你
 
-![](http://images2015.cnblogs.com/blog/406864/201601/406864-20160101143726292-56636875.png)
+![](/assets/images/2015/11-11-1.png)
 
 
 ## 系统的键盘设置

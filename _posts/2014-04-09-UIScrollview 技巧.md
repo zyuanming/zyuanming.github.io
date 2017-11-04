@@ -250,4 +250,4 @@ Tiling是一个种解决方法。我们把内容分成一个个小的矩形区�
 
 上面的代码中并没有明确释放离屏区块，你可以在TiledView中调用setNeedsDisplay 或者setNeedsDisplayInRect: 方法，但是这样并不会清除离屏的区块，我们相信这个CATiledLayer会帮我们处理好。
 
- [1]: http://images.cnitblog.com/blog/406864/201410/240753254335316.png
+ [1]: /assets/images/2014/04-09-1.png

@@ -16,21 +16,21 @@ description: Maven + Jetty 配置和运行
 
 1、首先在一个自己建的目录下，用命令行输入：
 
-![](http://images.cnitblog.com/blog/406864/201212/17223730-146072372ef1409a9fc08fd270100c0a.png)
+![](/assets/images/2013/11-18-1.png)
 
 这样相当于用交互的方式来自定义创建项目
 
 2、接着输入19，表示生成基本的Java web项目目录结构
 
-![](http://images.cnitblog.com/blog/406864/201212/17224006-82ccbb5b096e49bba1233491b93583db.png)
+![](/assets/images/2013/11-18-2.png)
 
 3、如下图输入基本的项目坐标信息，用来唯一标识我们的项目，最后回车
 
-![](http://images.cnitblog.com/blog/406864/201212/17224128-0bcfe03df4bf43ca88565b51376d9064.png)
+![](/assets/images/2013/11-18-3.png)
 
 4、接着我们这个项目是基于SpringMVC框架的，这个时候怎么配置呢，在如下目录先建立如下文件
 
-![](http://images.cnitblog.com/blog/406864/201212/17224540-150b80e1b5114202b35e5abee967742a.png)
+![](/assets/images/2013/11-18-4.png)
 
 web.xml
 
@@ -311,17 +311,17 @@ BbtForumController.java
      我们应该在eclipse中设置我们这个本地仓库作为编译库，这样我们就不用倒入jar包到我们的项目中了。
 
 
-![](http://images.cnitblog.com/blog/406864/201212/17234955-c71d0d62f6474ec99ee79958dbbccc0c.png)
+![](/assets/images/2013/11-18-5.png)
  
 
          其中  E:/apache-maven-3.0.4/repository这个目录就是我设置的maven本地仓库，我们可以在maven下的
 
 
-![](http://images.cnitblog.com/blog/406864/201212/17235157-79e572a770384d3d8646dbe7a876fd3a.png)
+![](/assets/images/2013/11-18-6.png)
  
 
        中的settings.xml配置文件中设置如下：
-![](http://images.cnitblog.com/blog/406864/201212/17235334-4844f588d7264e1583a0c575184225b5.png)
+![](/assets/images/2013/11-18-7.png)
 
 
 8、接着导入这个项目到eclipse中，这个项目我提供了两种运行方法：

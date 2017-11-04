@@ -84,4 +84,4 @@ CAMediaTimingFunction是由两个点定义的贝塞尔曲线， 左下角坐标�
     [CATransaction setAnimationTimingFunction: clunk];
     arrow.transform = CATransform3DRotate(arrow.transform, M_PI/4.0, 0, 0, 1);
 
- [1]: http://images.cnitblog.com/blog/406864/201410/112321144682848.png
+ [1]: /assets/images/2014/09-11-1.png

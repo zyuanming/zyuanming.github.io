@@ -12,7 +12,7 @@ description: Jenkins 的错
 
 我们使用Jenkins 来进行我们的代码集成编译，当应用内添加了 Watch OS2 App的支持时，提交上去的代码会编译失败。失败提示如下：
 
-![](http://images2015.cnblogs.com/blog/406864/201607/406864-20160704102405421-603382803.png)
+![](/assets/images/2016/06-05-1.png)
 
 找不到 Watch App。
 

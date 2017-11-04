@@ -113,6 +113,6 @@ description: 写不是义务，写本身就是写的报酬。
  [4]: https://developer.apple.com/library/ios/documentation/uikit/reference/UICollectionViewCell_class/Reference/Reference.html
  [5]: https://developer.apple.com/library/ios/documentation/uikit/reference/UIImageView_Class/Reference/Reference.html
  [6]: http://en.wikipedia.org/wiki/Normalization_(statistics)
- [7]: http://images.cnitblog.com/blog2015/406864/201503/161614211428515.png
- [8]: http://images.cnitblog.com/blog2015/406864/201503/161615015487460.png
+ [7]: /assets/images/2014/12-16-1.png
+ [8]: /assets/images/2014/12-16-2.png
  [9]: https://github.com/nrj/ParallaxAlbumCovers

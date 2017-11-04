@@ -350,18 +350,18 @@ MapKit是一个非常整洁的API，可在iPhone上很容易地显示地图，�
 这里是一个完整的[源码项目][16]
 
  [1]: http://ios.biomsoft.com/2012/04/06/mapkit-on-ios/
- [2]: http://images.cnitblog.com/blog/406864/201411/061118067201875.png
- [3]: http://images.cnitblog.com/blog/406864/201411/061120117836866.png
- [4]: http://images.cnitblog.com/blog/406864/201411/061121262522283.png
- [5]: http://images.cnitblog.com/blog/406864/201411/061122537524218.png
- [6]: http://images.cnitblog.com/blog/406864/201411/061124025641096.png
- [7]: http://images.cnitblog.com/blog/406864/201411/061130259245110.png
- [8]: http://images.cnitblog.com/blog/406864/201411/061142130806869.png
+ [2]: /assets/images/2013/10-16-1.png
+ [3]: /assets/images/2013/10-16-2.png
+ [4]: /assets/images/2013/10-16-3.png
+ [5]: /assets/images/2013/10-16-4.png
+ [6]: /assets/images/2013/10-16-5.png
+ [7]: /assets/images/2013/10-16-6.png
+ [8]: /assets/images/2013/10-16-7.png
  [9]: http://dev.socrata.com/querying-datasets
  [10]: https://data.baltimorecity.gov/Crime/BPD-Arrests/3i3v-ibrt
- [11]: http://images.cnitblog.com/blog/406864/201411/061156466277463.png
- [12]: http://images.cnitblog.com/blog/406864/201411/061158338456740.png
+ [11]: /assets/images/2013/10-16-8.png
+ [12]: /assets/images/2013/10-16-9.png
  [13]: http://www.raywenderlich.com/downloads/command2.json.zip
- [14]: http://images.cnitblog.com/blog/406864/201411/061207445642660.png
- [15]: http://images.cnitblog.com/blog/406864/201411/061334179709511.png
+ [14]: /assets/images/2013/10-16-10.png
+ [15]: /assets/images/2013/10-16-11.png
  [16]: http://www.raywenderlich.com/downloads/ArrestsPlotter.zip

@@ -203,7 +203,7 @@ spin是自转的速度（弧度每秒）；range决定了在单元存活时间�
     emit.emitterMode = kCAEmitterLayerOutline;
     cell.emissionLongitude = 3*M_PI/4;
 
- [1]: http://images.cnitblog.com/blog/406864/201410/162212580765447.png
- [2]: http://images.cnitblog.com/blog/406864/201410/162232098262247.png
- [3]: http://images.cnitblog.com/blog/406864/201410/162304137486248.png
- [4]: http://images.cnitblog.com/blog/406864/201410/162305278264247.png
+ [1]: /assets/images/2014/09-26-1.png
+ [2]: /assets/images/2014/09-26-2.png
+ [3]: /assets/images/2014/09-26-3.png
+ [4]: /assets/images/2014/09-26-4.png

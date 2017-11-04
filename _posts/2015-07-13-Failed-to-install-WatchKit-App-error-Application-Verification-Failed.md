@@ -10,7 +10,7 @@ description: 写不是义务，写本身就是写的报酬。
 
 > 本文翻译自[Failed to install WatchKit App, error: Application Verification Failed][1]
 
-![](http://images2015.cnblogs.com/blog/406864/201509/406864-20150913110408387-1655507888.png)
+![](/assets/images/2015/07-13-1.png)
 
 WatchKit 刚发布没有多久，它的文档还非常少。这样有好也有坏，并因祸得福得使我对这方面的知识挖得比平时更深，学到了也许我不会学到的知识。
 

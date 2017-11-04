@@ -77,5 +77,5 @@ description: 三个有用的UIWebView 技巧
 当然，上面的方法还需要很多准备，比如你要设置UIWebView的委托，还有确保在预加载时不阻塞UI等等，我们只是说明一下思路，相信你会知道细节怎么处理。
 
  [1]: http://ios.biomsoft.com/2012/04/26/three-useful-uiwebview-tweaks/
- [2]: http://images.cnitblog.com/blog/406864/201411/061014287203228.png
- [3]: http://images.cnitblog.com/blog/406864/201411/061017166276331.png
+ [2]: /assets/images/2013/10-06-1.png
+ [3]: /assets/images/2013/10-06-2.png

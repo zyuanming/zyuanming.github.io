@@ -317,4 +317,4 @@ v是sv（scrollview）的一个子视图，这个子视图就是将要可以缩�
 
 苹果官方也说，可以设置一个视图的clearsContextBeforeDrawing属性为NO，这样可能造成一点不同，但是具体没有验证会有什么不同或者是优化。
 
- [1]: http://images.cnitblog.com/blog/406864/201410/241051160279123.png
+ [1]: /assets/images/2014/04-12-1.png

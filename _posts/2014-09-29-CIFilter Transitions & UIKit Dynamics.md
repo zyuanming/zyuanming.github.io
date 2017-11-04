@@ -282,4 +282,4 @@ UIDynamicBehavior 通过实现willMoveToAnimator:方法，来在被添加到动�
 
 赋予其item具有内部物理特性，如密度（相对于大小变化），弹性（弹跳碰撞），摩擦和阻力，以及喷射线速度和角速度。
 
- [1]: http://images.cnitblog.com/blog/406864/201410/162305278264247.png
+ [1]: /assets/images/2014/09-29-1.png

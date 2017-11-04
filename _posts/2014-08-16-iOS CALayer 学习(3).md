@@ -138,7 +138,7 @@ description: iOS CALayer 学习（3）
 
 返回的这个layer可以当作一个遮罩添加到一个layer中，只要指定frame和设置layer的 mask即可。产生的结果是，所有layer中内容和它的子layer都会被剪切成圆角形状，在这个形状外面的部分都不会绘制。
 
- [1]: http://images.cnitblog.com/blog/406864/201410/052243009562423.png
- [2]: http://images.cnitblog.com/blog/406864/201410/052243319878003.png
- [3]: http://images.cnitblog.com/blog/406864/201410/052244047065899.png
- [4]: http://images.cnitblog.com/blog/406864/201410/052244397849182.png
+ [1]: /assets/images/2014/08-16-1.png
+ [2]: /assets/images/2014/08-16-2.png
+ [3]: /assets/images/2014/08-16-3.png
+ [4]: /assets/images/2014/08-16-4.png
