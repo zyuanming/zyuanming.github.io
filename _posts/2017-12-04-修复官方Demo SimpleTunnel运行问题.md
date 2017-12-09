@@ -8,7 +8,7 @@ description: NetworkExtension
 
 ---
 
-## 解决方法
+## PacketProvider Extension 不运行
 
 On iOS problems like this almost always boil down to one of two things.
 Entitlements
@@ -38,7 +38,28 @@ Share and Enjoy
 
     $(PRODUCT_NAME:c99extidentifier).PacketTunnelProvider
 
->>> 这个在有些app中，却不需要这么写，直接 `PacketTunnelProvider ` 指明类名就可以了。还在探讨中...
+> 这个在有些app中，却不需要这么写，直接 `PacketTunnelProvider ` 指明类名就可以了。还在探讨中...
+
+
+## NSStreamDelegate 不执行
+
+注意，在升级Swift 版本到 3.0时，很多系统API的`Delegate`方法的命名是改变的，但是在Xcode自动转换为Swift 3.0版本时，并没有帮我们改正这些原来错误的命名。比如：下面是旧版Swift下`NSStreamDelegate`的方法声明：
+
+        func stream(aStream: Stream, handleEvent eventCode: Stream.Event) {
+        
+而在Swift 3.0后，这个方法的命名变成了下面：
+
+        func stream(_ aStream: Stream, handle eventCode: Stream.Event) {
+
+所以导致系统没有回调。
+
+
+## Failed to create a utun interface: Operation not permitted
+
+如果发生上面的错误，则是因为你没有以Root的身份运行服务端程序。
+
+![](/assets/images/2017/12-09-1.png)
+
     
 ## 参考链接
 
