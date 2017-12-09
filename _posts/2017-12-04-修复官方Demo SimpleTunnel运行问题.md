@@ -64,3 +64,5 @@ Share and Enjoy
 ## 参考链接
 
 \[1]: <https://forums.developer.apple.com/thread/77704>
+
+\[2]: <https://forums.developer.apple.com/thread/73509>
